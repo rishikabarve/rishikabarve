@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 👋 Hi, I’m Rishika Barve
 
 I’m a computer science engineering graduate with interests in java and applied machine learning. I enjoy building and analyzing software that supports real-world workflows, from low-level systems to AI-enabled applications.
