@@ -1,6 +1,11 @@
 # 💫 About Me:
-🔭 Currently working on strengthening DSA and building real-world Java projects  <br>👯 Open to collaborating on web development and open-source projects  <br>🤝 Seeking guidance in backend development and scalable system design  <br>🌱 Learning Java, DSA, APIs, and problem-solving for tech interviews  <br>💬 Ask me about Java, coding logic, and beginner-friendly DSA  <br>⚡ Fun fact: I’m on a journey from beginner to software engineer 🚀
+👋 Hi, I’m Rishika Barve
 
+I’m a computer science engineering graduate with interests in java and applied machine learning. I enjoy building and analyzing software that supports real-world workflows, from low-level systems to AI-enabled applications.
+
+I’ve worked on projects involving springboot, and ML-based projects, and I’m always curious about how theory translates into practice.
+
+📫 Feel free to reach out : rishikabarve8@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishikabarve_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rishika-barve-740257264) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishikabarve8@gmail.com) 
