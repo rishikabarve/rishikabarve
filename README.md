@@ -22,3 +22,6 @@ I’ve worked on projects involving springboot, and ML-based projects, and I’m
 ---
 [![](https://visitcount.itsvg.in/api?id=rishikabarve&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/rishikabarve?theme=dark&font=Karma&ext=heatmap)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/rishikabarve/)
+
